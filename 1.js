@@ -2,17 +2,17 @@ const tasks = [
     {
         id: "1138465078061",
         completed: false,
-        text: "Посмотреть новый урок по JavaScript"
+        text: "Проснуться"
     },
     {
         id: "1138465078062",
         completed: false,
-        text: "Выполнить тест после урока"
+        text: "Принять душ"
     },
     {
         id: "1138465078063",
         completed: false,
-        text: "Выполнить ДЗ после урока"
+        text: "Завоевать мир!"
     }
 ];
 
